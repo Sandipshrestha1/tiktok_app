@@ -2,7 +2,6 @@ import 'package:equatable/equatable.dart';
 
 class UserModel extends Equatable {
   final int id;
-
   final String name;
   final String url;
 
